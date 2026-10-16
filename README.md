@@ -29,14 +29,18 @@ Email: 6730400121@student.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Gitgif](Animation/GITGIF.gif)
+
+![Gitgifa](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+> Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
+
+[![Video Lecture](https://img.youtube.com/vi/alfmHTYsEU4/hqdefault.jpg)](https://youtu.be/alfmHTYsEU4)
