@@ -27,6 +27,12 @@ c) Update this README.md file:
 Name: Puntira Chatthammarak
 Email: 6730400121@student.chula.ac.th
 
+Name: Pavida Mayudee
+Email: 6730413321@student.chula.ac.th
+
+Name: Jinjuta Peecharsoontorn
+Email: 6730069121@student.chula.ac.th
+
 🖼️ 2. Picture
 
 ![Quote](Picture/Quote.jpg)
