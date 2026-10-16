@@ -24,8 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Puntira Chatthammarak
+Email: 6730400121@student.chula.ac.th
 
 🖼️ 2. Picture
 
